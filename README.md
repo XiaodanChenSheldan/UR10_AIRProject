@@ -22,7 +22,7 @@ Building workspace requires the following tools:
 Get the source code:
 
 ```shell
-git clone git@github.com:SheldanChen/ws_ur10_s.git
+git clone git@github.com:XiaodanChenSheldan/UR10_AIRProject.git
 cd ws_ur10_s
 ```
 
